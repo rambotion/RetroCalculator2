@@ -14,6 +14,7 @@
 		415315621C70EEAC00043FEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 415315601C70EEAC00043FEC /* LaunchScreen.storyboard */; };
 		4153156D1C70EEAC00043FEC /* RetroCalculator2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4153156C1C70EEAC00043FEC /* RetroCalculator2Tests.swift */; };
 		415315781C70EEAC00043FEC /* RetroCalculator2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415315771C70EEAC00043FEC /* RetroCalculator2UITests.swift */; };
+		415315861C71057E00043FEC /* DJB Get Digital.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 415315851C71057E00043FEC /* DJB Get Digital.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		415315731C70EEAC00043FEC /* RetroCalculator2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RetroCalculator2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		415315771C70EEAC00043FEC /* RetroCalculator2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetroCalculator2UITests.swift; sourceTree = "<group>"; };
 		415315791C70EEAC00043FEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		415315851C71057E00043FEC /* DJB Get Digital.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DJB Get Digital.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		415315561C70EEAC00043FEC /* RetroCalculator2 */ = {
 			isa = PBXGroup;
 			children = (
+				415315851C71057E00043FEC /* DJB Get Digital.ttf */,
 				415315571C70EEAC00043FEC /* AppDelegate.swift */,
 				415315591C70EEAC00043FEC /* ViewController.swift */,
 				4153155B1C70EEAC00043FEC /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				415315621C70EEAC00043FEC /* LaunchScreen.storyboard in Resources */,
+				415315861C71057E00043FEC /* DJB Get Digital.ttf in Resources */,
 				4153155F1C70EEAC00043FEC /* Assets.xcassets in Resources */,
 				4153155D1C70EEAC00043FEC /* Main.storyboard in Resources */,
 			);
