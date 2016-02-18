@@ -15,6 +15,7 @@
 		4153156D1C70EEAC00043FEC /* RetroCalculator2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4153156C1C70EEAC00043FEC /* RetroCalculator2Tests.swift */; };
 		415315781C70EEAC00043FEC /* RetroCalculator2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415315771C70EEAC00043FEC /* RetroCalculator2UITests.swift */; };
 		415315861C71057E00043FEC /* DJB Get Digital.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 415315851C71057E00043FEC /* DJB Get Digital.ttf */; };
+		4178E3241C7560EC00A7A926 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4178E3231C7560EC00A7A926 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		415315771C70EEAC00043FEC /* RetroCalculator2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetroCalculator2UITests.swift; sourceTree = "<group>"; };
 		415315791C70EEAC00043FEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		415315851C71057E00043FEC /* DJB Get Digital.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DJB Get Digital.ttf"; sourceTree = "<group>"; };
+		4178E3231C7560EC00A7A926 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = btn.wav; path = Assets.xcassets/btn.dataset/btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				415315851C71057E00043FEC /* DJB Get Digital.ttf */,
+				4178E3231C7560EC00A7A926 /* btn.wav */,
 				415315571C70EEAC00043FEC /* AppDelegate.swift */,
 				415315591C70EEAC00043FEC /* ViewController.swift */,
 				4153155B1C70EEAC00043FEC /* Main.storyboard */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4178E3241C7560EC00A7A926 /* btn.wav in Resources */,
 				415315621C70EEAC00043FEC /* LaunchScreen.storyboard in Resources */,
 				415315861C71057E00043FEC /* DJB Get Digital.ttf in Resources */,
 				4153155F1C70EEAC00043FEC /* Assets.xcassets in Resources */,
@@ -491,6 +495,7 @@
 				4153157E1C70EEAC00043FEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4153157F1C70EEAC00043FEC /* Build configuration list for PBXNativeTarget "RetroCalculator2Tests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +504,7 @@
 				415315811C70EEAC00043FEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		415315821C70EEAC00043FEC /* Build configuration list for PBXNativeTarget "RetroCalculator2UITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +513,7 @@
 				415315841C70EEAC00043FEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
